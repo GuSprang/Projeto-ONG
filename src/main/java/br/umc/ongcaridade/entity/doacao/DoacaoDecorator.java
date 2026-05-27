@@ -1,5 +1,8 @@
 package br.umc.ongcaridade.entity.doacao;
-
+import lombok.Getter;
+import lombok.Setter;
+@Getter
+@Setter
 public abstract class DoacaoDecorator extends Doacao {
     protected Doacao wrapped;
 
