@@ -117,7 +117,7 @@ Projeto acadêmico desenvolvido na Universidade de Mogi das Cruzes (UMC).
 
 ## English
 
-# ONG Caridade
+# ONG Charity
 
 A system for creating and managing charity campaigns, developed to practice and consolidate skills with Java, Spring Boot, and Firebase.
 
